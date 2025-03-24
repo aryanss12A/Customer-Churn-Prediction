@@ -27,7 +27,7 @@ Feature Encoding: Converted categorical variables using LabelEncoder.
 Data Scaling: Normalized numerical data using StandardScaler.
 Train-Test Split: Split dataset into 80% training and 20% testing.
 
-5. Model Evaluation
+4. Model Evaluation
 Accuracy Score:90%
 Confusion Matrix: 0.85 Or 85% Means that the data available is churned
 Performance Metrics:
