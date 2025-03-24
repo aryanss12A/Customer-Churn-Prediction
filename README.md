@@ -1,2 +1,9 @@
-# Customer-Churn-Prediction
-Customer churn prediction is the process of identifying customers who are likely to stop using a product or service. Businesses use churn prediction models to retain customers by implementing proactive strategies such as personalized offers, better customer support, or loyalty programs.
+Project Title: Customer Churn Prediction using SVM
+
+Objective: Predict customer churn using machine learning (Support Vector Machine - SVM) based on customer data.
+
+Technologies Used:
+🐍 Python (scikit-learn, pandas, numpy)
+💾 MySQL (for data storage)
+📊 Machine Learning (SVM Model)
+
